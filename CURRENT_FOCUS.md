@@ -1,6 +1,6 @@
 ---
 title: "Current Focus"
-tags: [forgekit/core]
+tags: [groundwork/core]
 aliases: ["Focus", "Current Work"]
 ---
 
@@ -21,7 +21,7 @@ aliases: ["Focus", "Current Work"]
 
 ## Quick Context
 
-**What we're doing**: This is a fresh ForgeKit template. Run `/kickstart` to initialize your project.
+**What we're doing**: This is a fresh Groundwork template. Run `/kickstart` to initialize your project.
 
 **Why**: No project has been bootstrapped yet.
 
@@ -33,7 +33,7 @@ aliases: ["Focus", "Current Work"]
 
 ## Key Files
 
-- Methodology: [[FORGEKIT_METHODOLOGY]]
+- Methodology: [[GROUNDWORK_METHODOLOGY]]
 - Commands: [[COMMANDS]]
 - Decisions: [[DECISIONS]]
 

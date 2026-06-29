@@ -7,3 +7,6 @@
 .obsidian/core-plugins-migration.json
 
 .DS_Store
+
+# Serena MCP local tool cache
+.serena/
